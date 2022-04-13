@@ -12,3 +12,22 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.container {
+  display: flex;
+  width: 350px;
+  justify-content: space-around;
+}
+
+.level-container {
+  display: flex;
+  width: 325px;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.level {
+  border-radius: 10px;
+  height: 12px;
+  width: 100px;
+}

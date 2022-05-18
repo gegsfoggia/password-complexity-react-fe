@@ -1,4 +1,4 @@
-# Cálculo de Complejidad de Contraseña
+## Cálculo de Complejidad de Contraseña
 
 1. Implementar (al menos 2 reglas)
   - a) Regla de mínimo de caracteres (ejemplo: Longitud mínima 8 caracteres).
